@@ -1,0 +1,11 @@
+{
+  "name": "@pacuare/sdk",
+  "version": "0.1.0",
+  "exports": "./mod.ts",
+  "license": "MIT",
+  "lint": {
+    "rules": {
+      "tags": ["jsr"]
+    }
+  }
+}
